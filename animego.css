@@ -67,7 +67,7 @@
 }
 
 /* Поле ввода */
-[role=button], a, area, button, input:not([type=range]), label, select, summary, textarea {
+[role=button], area, button, input:not([type=range]), label, select, summary, textarea {
     background-color: #252d38 !important;
     color: white !important;
 }
